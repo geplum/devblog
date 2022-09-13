@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lijin1201.github.io/devblog
+url: https://geplum.github.io/devblog
 date_format: "ordinal"
 title: "리진 LI JIN"
 subtitle: "개발일지"

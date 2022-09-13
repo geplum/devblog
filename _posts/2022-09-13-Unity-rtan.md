@@ -10,12 +10,23 @@ keywords: game, C#
 
 
 ```cpp
-onCollision
+    void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (coll.gameObject.tag == "ground")
+        {
+            // Debug.Log("땅이다!");
+            Destroy(gameObject);
+        }
+        if (coll.gameObject.tag == "rtan")
+        {
+            GameManager.I.addScore(score);
+            Destroy(gameObject);
+        }
+    }
 
 ```
 
 ## 게임플레이:
 
-![](/images/posts/shell/zsh-gmt-completion.gif)
-
-
+<!-- ![](/images/posts/shell/zsh-gmt-completion.gif) -->
+![](/images/posts/unity/rtanGame0.webp)
