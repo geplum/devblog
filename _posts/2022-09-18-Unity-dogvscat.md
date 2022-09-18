@@ -13,6 +13,6 @@ Unity 화면 | 게임플레이
 ![](/images/posts/unity/unity-dogvscat.png){: width="300"} |video
 
 <video controls="controls">
-<source src="devblog/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
+<source src="{{site.baseurl}}/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
 
 
