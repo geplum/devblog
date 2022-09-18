@@ -12,7 +12,18 @@ Unity 화면 | 게임플레이
 ------------|------------
 ![](/images/posts/unity/unity-dogvscat.png){: width="300"} |video
 
-<video controls="controls">
-<source src="{{site.baseurl}}/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
+<table>
+    <tr>
+        <td>Unity 화면 </td>
+        <td>게임플레이 </td>
+    </tr>
+    <tr>
+        <td>![](/images/posts/unity/unity-dogvscat.png){: width="300"}</td>
+        <td>
+        <video controls="controls">
+        <source src="{{site.baseurl}}/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
+        </td>
+    </tr>
+</table>
 
 
