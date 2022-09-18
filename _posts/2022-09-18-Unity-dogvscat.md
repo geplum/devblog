@@ -8,11 +8,11 @@ keywords: game, C#
 
 이번에 고양이 밥주기로 fish-shop를 지키는 게임을 만들었습니다. 아래는 Unity 화면과 게임플레이.
 
-##Unity 화면 | ##게임플레이
+Unity 화면 | 게임플레이
 ------------|------------
 ![](/images/posts/unity/unity-dogvscat.png){: width="300"} |video
 
 <video controls="controls">
-<source src="/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
+<source src="devblog/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
 
 
