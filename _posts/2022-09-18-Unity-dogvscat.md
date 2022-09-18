@@ -11,6 +11,6 @@ keywords: game, C#
 ##Unity 화면 | ##게임플레이
 ------------|------------
 ![](/images/posts/unity/unity-dogvscat.png){: width="300"} |<video controls="controls">
-<source src="../images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
+<source src="/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
 
 
