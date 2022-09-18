@@ -18,7 +18,7 @@ Unity 화면 | 게임플레이
         <td>게임플레이 </td>
     </tr>
     <tr>
-        <td>![](/images/posts/unity/unity-dogvscat.png){: width="300"}</td>
+        <td><img src="{{site.baseurl}}/images/posts/unity/unity-dogvscat.png" alt width="300"></td>
         <td>
         <video controls="controls">
         <source src="{{site.baseurl}}/images/posts/unity/unity-dogvscat-Opt.mp4" type="video/mp4"></video>
